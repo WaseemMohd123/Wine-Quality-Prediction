@@ -20,5 +20,4 @@ Pandas, NumPy, Matplotlib, Seaborn
 
 Jupyter Notebook
 
-📁 File
-Wine_quality.ipynb: Complete analysis and model implementation notebook
+
